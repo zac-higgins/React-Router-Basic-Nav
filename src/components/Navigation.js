@@ -10,10 +10,10 @@ const Navigation = () => {
           <Link to="/">Home</Link>
         </div>
         <div>
-          <a href="/about">About</a>
+          <Link to="/about">About</Link>
         </div>
         <div>
-          <a href="/contact">Contact</a>
+          <Link to="/contact">Contact</Link>
         </div>
       </div>
     </div>
